@@ -7,7 +7,7 @@ We are simply making them more readily available for research groups to use to a
 
 If you use the following datasets, please cite the original author's works, found below:
 
-Simulated_Datasets.zip -  R.Quiroga,Z.Nadasdy,andY.Ben-Shaul,“Unsupervisedspikedetectionandsortingwithwaveletsandsuperparamagneticclustering,” Neural Computation, vol. 16, no. 8, pp. 1661 – 1687, 2004.
+Simulated_Datasets.zip -  R.Quiroga, Z.Nadasdy ,and Y.Ben-Shaul, “Unsupervised spike detection and sorting with wavelets and superparamagnetic clustering,” Neural Computation, vol. 16, no. 8, pp. 1661 – 1687, 2004.
 
 MultiUnit_Dataset.zip - J. Martinez, C. Pedreira, M. J. Ison, and R. Q. Quiroga, “Realistic simulation of extracellular recordings,” Journal of Neuroscience Methods, vol. 184, no. 2, pp. 285–293, 2009.
 

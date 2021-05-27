@@ -15,3 +15,5 @@ MultiUnit_Dataset.zip - J. Martinez, C. Pedreira, M. J. Ison, and R. Q. Quiroga,
 UCLA_Dataset.zip - I. Fried, K. A. MacDonald, and C. L. Wilson, “Single neuron activity in human hippocampus and amygdala during recognition of faces and objects,” Neuron, no. 5, pp. 753–765, 1997.
 
 R. Q. Quiroga, L. Reddy, G. Kreiman, C. Koch, and I. Fried, “Invariant visual representation by single neurons in the human brain,” Nature, vol. 435, no. 7045, pp. 1102–1107, 2005.
+
+C. Pedreira et. al, "How many neurons can we see with current spike sorting algorithms?", Journal of Neuroscience Methods, vol. 211, no. 1, pp. 58–65, 2012. - https://www135.lamp.le.ac.uk/hgr3/

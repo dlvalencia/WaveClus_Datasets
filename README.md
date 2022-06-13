@@ -3,6 +3,7 @@ An easy to access public repository of the waveclus datasets.
 
 Note: We do not claim ownership of these datasets. The source can be found here: https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/spike-sorting
 
+
 We are simply making them more readily available for research groups to use to assess the performance of their spike sorting algorithms/designs.
 The files were relatively large for uploading to GitHub, so they were split into multiple rar files for easy uploading. You'll have to combine them again using WinRar.
 
@@ -17,3 +18,10 @@ UCLA_Dataset.zip - I. Fried, K. A. MacDonald, and C. L. Wilson, “Single neuron
 R. Q. Quiroga, L. Reddy, G. Kreiman, C. Koch, and I. Fried, “Invariant visual representation by single neurons in the human brain,” Nature, vol. 435, no. 7045, pp. 1102–1107, 2005.
 
 C. Pedreira et. al, "How many neurons can we see with current spike sorting algorithms?", Journal of Neuroscience Methods, vol. 211, no. 1, pp. 58–65, 2012. - https://www135.lamp.le.ac.uk/hgr3/
+
+### Update June 12, 2022
+It seems that the source link above is out of data. The new website for the University of Leicester Centre for Systems Neuroscience is found here: https://le.ac.uk/csn. The following are the latest available sources for the datasets
+
+Simulated_Dataset : https://leicester.figshare.com/articles/dataset/Simulated_dataset/11897595
+
+UCLA_Dataset: https://leicester.figshare.com/articles/dataset/Dataset_Human_single-cell_recording/11302427

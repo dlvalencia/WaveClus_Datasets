@@ -20,7 +20,7 @@ R. Q. Quiroga, L. Reddy, G. Kreiman, C. Koch, and I. Fried, “Invariant visual 
 C. Pedreira et. al, "How many neurons can we see with current spike sorting algorithms?", Journal of Neuroscience Methods, vol. 211, no. 1, pp. 58–65, 2012. - https://www135.lamp.le.ac.uk/hgr3/
 
 ### Update June 12, 2022
-It seems that the source link above is out of data. The new website for the University of Leicester Centre for Systems Neuroscience is found here: https://le.ac.uk/csn. The following are the latest available sources for the datasets
+It seems that the source link above is out of date. The new website for the University of Leicester Centre for Systems Neuroscience is found here: https://le.ac.uk/csn. The following are the latest available sources for the datasets
 
 Simulated_Dataset : https://leicester.figshare.com/articles/dataset/Simulated_dataset/11897595
 
